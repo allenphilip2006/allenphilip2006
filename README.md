@@ -74,9 +74,8 @@ public class AllenPhilip {
 ![XGBoost](https://img.shields.io/badge/XGBoost-117864?style=flat-square)
 ![ARIMA](https://img.shields.io/badge/ARIMA-117864?style=flat-square)
 
-> ⚠️ *Cloud & DevOps badges (AWS/Docker/CI-CD) omitted — not yet listed on your resume. Add once you have hands-on experience, and I can slot the badges in.*
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -105,7 +104,6 @@ public class AllenPhilip {
 
 </div>
 
-> ⚠️ *Replace `allenphilip` in every stats URL above with your exact GitHub username — your resume only listed `github.com` with no handle, so this is a placeholder.*
 
 ---
 
@@ -153,10 +151,6 @@ public class AllenPhilip {
 | 🎓 Claude AI | Skill Nations |
 
 </div>
-
-> ⚠️ *No LeetCode/competitive programming stats or hackathon placement rank were on your resume — add a LeetCode stats badge here once you have a profile to link.*
-
----
 
 ### 🎓 Education
 
