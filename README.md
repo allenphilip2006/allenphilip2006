@@ -74,8 +74,7 @@ public class AllenPhilip {
 ![XGBoost](https://img.shields.io/badge/XGBoost-117864?style=flat-square)
 ![ARIMA](https://img.shields.io/badge/ARIMA-117864?style=flat-square)
 
-
-
+---
 
 ### 📊 GitHub Stats
 
@@ -88,9 +87,18 @@ public class AllenPhilip {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=allenphilip&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://komarev.com/ghpvc/?username=allenphilip&label=Profile%20Views&color=70A5FD&style=flat-square" alt="Profile Views"/>
 
 </div>
+
+### 🧭 Currently Building
+
+```text
+[■■■■■■■■□□] ConnectHub          → adding media storage + likes analytics
+[■■■■□□□□□□] System Design        → studying scalability & caching patterns
+[■■□□□□□□□□] Docker               → containerizing the Spring Boot stack
+[■□□□□□□□□□] Cloud Deployment     → first AWS/Render deployment
+```
 
 <div align="center">
 
@@ -103,7 +111,6 @@ public class AllenPhilip {
 <img src="https://github-profile-trophy.vercel.app/?username=allenphilip&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
-
 
 ---
 
@@ -151,6 +158,8 @@ public class AllenPhilip {
 | 🎓 Claude AI | Skill Nations |
 
 </div>
+
+---
 
 ### 🎓 Education
 
